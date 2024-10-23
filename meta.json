@@ -1,0 +1,18 @@
+{
+  "workflow_environment": "pyiron",
+  "title": "MICRESS Benchmark of Early-Stage Growth from Liquid State",
+  "authors": [
+    "Lukas Koschmieder <l.koschmieder@access-technology.de>",
+    "Janin Eiken <j.eiken@access-technology.de>"
+  ],
+  "description": "Benchmark simulation of early-stage growth from liquid state using MICRESS.",
+  "release": "0.1.0",
+  "keywords": [
+    "micress",
+    "phase-field",
+    "solidification",
+    "early-stage growth",
+    "benchmark"
+  ],
+  "logo": "logo.png"
+}
