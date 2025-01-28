@@ -1,12 +1,12 @@
 {
   "workflow_environment": "pyiron",
-  "title": "MICRESS Benchmark of Early-Stage Growth from Liquid State",
+  "title": "MICRESS Benchmark of Early-Stage Growth from Liquid State (pyiron)",
   "authors": [
     "Lukas Koschmieder <l.koschmieder@access-technology.de>",
     "Janin Eiken <j.eiken@access-technology.de>"
   ],
   "description": "Benchmark simulation of early-stage growth from liquid state using MICRESS.",
-  "release": "0.1.1",
+  "release": "0.1.2",
   "keywords": [
     "micress",
     "phase-field",
